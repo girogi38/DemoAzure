@@ -8,7 +8,7 @@
 	}
 	}
 resource "azurerm_resource_group" "dev" {
-  name     = "PULTerraform"
+  name     = "Demoiberostar"
   location = "West Europe"
 }
 
